@@ -18,7 +18,7 @@ class doTheMath {
         // TODO: Take an string input like:
         // '7 + (8 / (4 - 3)'
         // and convert it to an array
-        return [7, '+', 8, '/', 2, '-', 1]; // Dummy response
+        return [7, '+', 8, '/', 4, '-', 3]; // Dummy response
     }
     makeTheTree = (mathArray, treeObj) => {
         // Uses Normal Polish Notation (of course it does...last name Kaskie lol)
